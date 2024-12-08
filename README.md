@@ -1,4 +1,4 @@
-# -Implementing-Continuous-Integration-CI-with-AWS-CodeBuild-and-Docker
+# Implementing-Continuous-Integration-CI-with-AWS-CodeBuild-and-Docker
 
 Objective
 The objective of the "Implementing Continuous Integration with AWS CodeBuild and Docker" is to establish a streamlined and automated process for building, testing, and validating software applications whenever changes are made to the source code. This is achieved by integrating AWS CodeBuild with Docker.
